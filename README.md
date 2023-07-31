@@ -1,4 +1,4 @@
-# Translify
+# TranslateSphere (Translify)
 
 TranslateSphere is a powerful translation tool that enables you to Translate your website, providing users from all over the world with a seamless multilingual experience. By utilizing HTML, CSS, and JavaScript, TranslateSphere offers more control over the translation process, allowing you to customize the user interface and language options according to your website's specific needs.
 
